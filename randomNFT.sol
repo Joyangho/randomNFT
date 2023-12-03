@@ -1,5 +1,7 @@
 // SPDX-License-Identifier: MIT
 
+// https://sabustory.tistory.com/
+// NFT 테스트
 
 pragma solidity ^0.8.0;
 
